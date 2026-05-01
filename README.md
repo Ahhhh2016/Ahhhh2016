@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-# Hi, I'm Yixuan Liu (刘奕萱) ☺️
+# Hi, I'm Yixuan Liu (刘奕萱) 🌳
 
 M.S. student in **Computer Science** at **Brown University**, focused on **visual computing**. I did my B.S. in CS at **Southwest Jiaotong University** and the **University of Leeds**.
 
