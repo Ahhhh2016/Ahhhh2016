@@ -44,6 +44,7 @@ M.S. student in **Computer Science** at **Brown University**, focused on **visua
 - **[WeekWise Training Plan](https://weekwise-trainingplan.vercel.app/)**: Built an AI fitness planning app that generates editable 7-day workout plans through chat and tracks daily completion.
 - **[PomoKanban](https://github.com/Ahhhh2016/pomokanban)**: Developed an Obsidian Pomodoro Kanban plugin that combines task boards, focus timers, breaks, rounds, due dates, and time logs.
 - **[Mengda AI](http://mengdaai.com/)**: Contributed to an AI web companion for job search and career preparation, focused on resume and career-planning workflows.
+- **[Wake A Word](https://wakeaword.vercel.app/)**: An AI-powered word recall tool for those tip-of-the-tongue moments: enter a fuzzy Chinese meaning or a partial spelling, and get likely English words ranked by match score.
 
 ## Connect
 
